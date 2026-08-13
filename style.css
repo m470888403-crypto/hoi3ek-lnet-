@@ -1,0 +1,31 @@
+body {
+  background-color:#f5fefef4;
+  font-family:Tajawal,Cairo,Arial,Sans-serif;
+  line-height:20px;
+}
+h1{
+  font-size:36px;
+  color:black;
+}
+p {
+  font-size:16px;
+  color:black;
+}
+h2 {
+  font-size:30px;
+}
+.fiel {
+  background-color:#daf4fcf4;
+  border:double;
+  border-radius:10px;
+  margin:20px;
+}
+h3 {
+  font-size:26px;
+  color:#279fe7f4;
+  
+}
+.legend {
+  color:#3158e9f4;
+  font-size:20px;
+}
