@@ -16,13 +16,10 @@ h2 {
 }
 .fiel {
   background-color:#daf4fcf4;
-  border: 1px double;
-  border-radius:12px;
-  margin:2px auto;
+  border: double;
+  border-radius:15px;
+  margin:20px;
   padding:20px;
-  max-width:600px;
-  text-align:right;
-  
 }
 h3 {
   font-size:26px;
