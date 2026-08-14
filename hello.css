@@ -7,11 +7,12 @@ body {
 }
 h1 {
   font-size:27px;
-  color:#07545ff4;
+}
+h2 {
+  font-size:20px;
 }
 p {
   font-size:16px;
-  color:black;
 }
 button {
   background-color:#45a8f3f4;
@@ -21,4 +22,4 @@ button {
 }
 button:hover {
   color:black;
-} 
+}
