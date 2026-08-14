@@ -22,3 +22,12 @@ button {
 button:hover {
   color:black;
 }
+ol {
+    padding-right: 25px; /* مسافة للارقام من اليمين */
+    margin: 5px 0;
+}
+
+li {
+    margin-bottom: 4px; /* مسافة صغيرة بين كل نقطة */
+    text-align: right;
+  }
